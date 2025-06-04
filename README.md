@@ -1,6 +1,6 @@
 # Thermal Comfort (SET) - Home Assistant Integration
 
-This is a custom integration for [Home Assistant](https://www.home-assistant.io/) that calculates the **Standard Effective Temperature (SET)** using the **Pierce two-node model**, via the [`pythermalcomfort`](https://github.com/center-for-the-built-environment/pythermalcomfort) library.
+This is a custom integration for [Home Assistant](https://www.home-assistant.io/) that calculates the **Standard Effective Temperature (SET)** using the **Pierce two-node model**, via the [`pythermalcomfort`](https://github.com/CenterForTheBuiltEnvironment/comfort_tool) library.
 
 ## 📦 Features
 
