@@ -1,9 +1,11 @@
 {
-  "name": "SET Comfort",
-  "content_in_root": false,
-  "domains": ["sensor"],
-  "country": "world",
+  "name": "Thermal Comfort (SET)",
+  "description": "Custom integration to calculate Standard Effective Temperature (SET) using the Pierce two-node model.",
+  "domain": "set_comfort",
+  "country": "global",
+  "source": "github",
+  "codeowners": ["@1iverea9er"],
   "homeassistant": "2023.0.0",
-  "iot_class": "local_polling",
-  "render_readme": true
+  "integration_type": "integration",
+  "requirements": []
 }
