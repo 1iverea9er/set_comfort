@@ -45,4 +45,4 @@ After installation, go to **Settings → Devices & Services → Add Integration*
 [MIT](LICENSE)
 
 ---
-Maintained by `@yourusername`
+Maintained by `1iverea9er`
