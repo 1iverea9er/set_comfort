@@ -1,0 +1,9 @@
+{
+  "domain": "set_comfort",
+  "name": "SET Comfort",
+  "version": "1.0.0",
+  "documentation": "https://github.com/1iverea9er/set_comfort",
+  "dependencies": [],
+  "codeowners": ["@1iverea9er"],
+  "requirements": []
+}
