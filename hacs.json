@@ -4,7 +4,7 @@
   "domain": "set_comfort",
   "country": "global",
   "source": "github",
-  "codeowners": ["@yourusername"],
+  "codeowners": ["1iverea9er"],
   "homeassistant": "2023.0.0",
   "integration_type": "integration",
   "requirements": []
